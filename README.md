@@ -1,2 +1,2 @@
 # odin-recipes
-This project will serve as a combination of all the different HTML topic I have learned thus far.
+In this project I will showcase a variety of HTML tools and showcase the knowledge I have learned thus far. I will create multiple pages with links to each page from the index. I will add images and use a variety of lists to display information.
