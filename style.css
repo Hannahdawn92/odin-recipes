@@ -33,3 +33,6 @@ p {
     border-bottom: 5px dashed #fde8a1;
     padding-bottom: 20px;
 }
+img {
+    max-width: 650px;
+}
