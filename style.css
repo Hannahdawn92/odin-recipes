@@ -1,3 +1,7 @@
+html {
+    width: ;
+    max-width: 650px;
+}
 body {font-family: "Big Shoulders", sans-serif;
 }
 .ingredients {
@@ -28,7 +32,4 @@ p {
     font-size: 20px;
     border-bottom: 5px dashed #fde8a1;
     padding-bottom: 20px;
-}
-img {
-    max-width: 650px;
 }
