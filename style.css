@@ -13,6 +13,9 @@
     display: block;
     text-align: center;
 }
+.home-button {
+    text-align: left;
+}
 body {font-family: "Roboto", sans-serif;
 }
 .ingredients {
